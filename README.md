@@ -1,2 +1,2 @@
 # Data_Structures
-A bunch of relatively small data structures projects made by me.
+A bunch of relatively small C++ data structures projects made by me.
