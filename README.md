@@ -1,2 +1,2 @@
 # Data_Structures
-A bunch of relatively small C++ data structures projects made by me.
+Data structures and algorithms that i learned from an indian guy`s course from SkillShare.com
